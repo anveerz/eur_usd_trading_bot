@@ -1,0 +1,5 @@
+{
+  "name": "EUR/USD Bot",
+  "description": "A real-time dashboard simulation of the Step 6 EUR/USD Trading Bot, visualizing signals, logs, and performance metrics based on the provided Python logic.",
+  "requestFramePermissions": []
+}
